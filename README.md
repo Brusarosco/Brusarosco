@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/guilherme-brusarosco-franco-4509a71b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brusaguii/)
 
-![Brusa GitHub stats](https://github-readme-stats.vercel.app/api?username=Brusarosco&show_icons=true&theme=highcontrast)
+![Brusa GitHub stats](https://github-readme-stats.vercel.app/api?username=Brusarosco&show_icons=true&theme=onedark)
 
 ### Tecnologias que estou estudando 
 
