@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brusarosco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que estou estudando 
+### Tecnologias que estou estudando:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
