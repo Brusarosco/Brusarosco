@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Gui Brusa 👋🏿
 
-[![Pokémon](https://img.shields.io/website?label=PokémonSearch&style=for-the-badge&url=http://pokemonsearch.42web.io/?i=1)](http://pokemonsearch.42web.io/?i=1)
+[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=http://pokemonsearch.42web.io/?i=1)](http://pokemonsearch.42web.io/?i=1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/guilherme-brusarosco-franco-4509a71b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brusaguii/)
 
