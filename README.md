@@ -26,5 +26,4 @@
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>  </br>
 
-I'm passionate about technology, and I love debating the subject with other people.😄
 
