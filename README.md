@@ -1,8 +1,17 @@
 
 ### Hi! I am Gui Brusa 👋🏿
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/guilherme-brusarosco-franco-4509a71b0/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brusaguii/)
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Studying Computer Engineer at the Universidade São Franscisco
+- 🌐 You can access al my open-source projects here on Github 
+- 🌟 I'm passionate about technology, and i love debating the subject with other people.
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow GuiBrusa on LinkedIn" title="Follow GuiBrusa on LinkedIn"/>](https://www.linkedin.com/in/guilherme-brusarosco-franco-4509a71b0/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow GuiBrusa on Instagram" title="Follow GuiBrusa on Instagram"/>](https://www.instagram.com/brusaguii/)
+
 
 ![Brusa GitHub stats](https://github-readme-stats.vercel.app/api?username=Brusarosco&show_icons=true&theme=onedark)
 
