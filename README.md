@@ -3,7 +3,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Studying Computer Engineer at the Universidade São Franscisco
-- 🌐 You can access al my open-source projects here on Github 
+- 🌐 You can access all my open-source projects here on Github 
 - 🌟 I'm passionate about technology, and i love debating the subject with other people.
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
