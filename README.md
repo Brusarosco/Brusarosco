@@ -10,7 +10,7 @@
 You can reach me at the email in my github profile. Follow my socials!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow GuiBrusa on LinkedIn" title="Follow GuiBrusa on LinkedIn"/>](https://www.linkedin.com/in/guilherme-brusarosco-franco-4509a71b0/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow GuiBrusa on Instagram" title="Follow GuiBrusa on Instagram"/>](https://www.instagram.com/brusaguii/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow GuiBrusa on Instagram" title="Follow GuiBrusa on Instagram"/>](https://www.instagram.com/brusaguiii/)
 
 
 ![Brusa GitHub stats](https://github-readme-stats.vercel.app/api?username=Brusarosco&show_icons=true&theme=onedark)
